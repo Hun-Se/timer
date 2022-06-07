@@ -1,0 +1,37 @@
+
+button {
+    width: 112px;
+    padding: 16px 23px 15px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+button .button-icon {
+    margin-right: 6px;
+    vertical-align: -3px;
+}
+
+.box {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(314.28deg, #304577 0%, #4C65A0 83%);
+    border: 1px solid #354971;
+    border-radius: 4px;
+}
+
+
+.box.time-box {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
